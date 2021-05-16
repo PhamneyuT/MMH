@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+/.vs
+/DesignPatterns/Debug
+/DesignPatterns/.vs/DesignPatterns/v16
