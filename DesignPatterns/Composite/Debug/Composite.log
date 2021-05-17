@@ -1,0 +1,3 @@
+﻿  Composite.cpp
+D:\git\MMH\DesignPatterns\Composite\Composite.cpp(39,27): warning C4018: '<': signed/unsigned mismatch
+  Composite.vcxproj -> D:\git\MMH\DesignPatterns\Debug\Composite.exe
