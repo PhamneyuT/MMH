@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>D:\git\MMH\DesignPatterns\Debug\Prototype.exe</FullPath>
+      <FullPath>D:\git\MMH\DesignPatterns\Debug\Observer.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
